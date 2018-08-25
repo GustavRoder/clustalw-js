@@ -1,0 +1,22 @@
+{
+  "name": "clustalw-js",
+  "version": "0.1.0",
+  "description": "A javascript implementation of ClustalW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavRoder/clustalw-js.git"
+  },
+  "keywords": [
+    "ClustalW"
+  ],
+  "author": "Gustav Roder",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/GustavRoder/clustalw-js/issues"
+  },
+  "homepage": "https://github.com/GustavRoder/clustalw-js#readme"
+}
