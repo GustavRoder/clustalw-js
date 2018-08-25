@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/GustavRoder/clustalw-js/issues"
   },
-  "homepage": "https://github.com/GustavRoder/clustalw-js#readme"
+  "homepage": "https://github.com/GustavRoder/clustalw-js#readme",
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  }
 }
